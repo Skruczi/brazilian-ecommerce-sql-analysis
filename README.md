@@ -108,9 +108,3 @@ It focuses on developing practical skills in:
 - joining multiple tables
 - performing business-oriented analysis
 - structuring SQL projects for GitHub portfolios
-
----
-
-# Author
-
-SQL practice project focused on data analysis and data engineering fundamentals.
