@@ -49,18 +49,18 @@ Main entities include:
 ---
 
 # Project Structure
-
+```
 ecommerce-sql-analysis
 │
 ├── table_creation.sql
 │
 └── sql
-├── 01_exploration.sql
-├── 02_sales_analysis.sql
-├── 03_delivery_analysis.sql
-├── 04_customer_and_seller_analysis.sql
-└── 05_reviews_analysis.sql
-
+    ├── 01_exploration.sql
+    ├── 02_sales_analysis.sql
+    ├── 03_delivery_analysis.sql
+    ├── 04_customer_and_seller_analysis.sql
+    └── 05_reviews_analysis.sql
+```
 table_creation.sql  
 Contains SQL statements used to create the database schema.
 
